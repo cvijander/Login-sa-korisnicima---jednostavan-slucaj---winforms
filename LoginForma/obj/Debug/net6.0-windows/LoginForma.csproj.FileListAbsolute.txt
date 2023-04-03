@@ -1,0 +1,17 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginForma\LoginForma\bin\Debug\net6.0-windows\LoginForma.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginForma\LoginForma\bin\Debug\net6.0-windows\LoginForma.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginForma\LoginForma\bin\Debug\net6.0-windows\LoginForma.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginForma\LoginForma\bin\Debug\net6.0-windows\LoginForma.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginForma\LoginForma\bin\Debug\net6.0-windows\LoginForma.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginForma\LoginForma\obj\Debug\net6.0-windows\LoginForma.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginForma\LoginForma\obj\Debug\net6.0-windows\LoginForma.Login.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginForma\LoginForma\obj\Debug\net6.0-windows\LoginForma.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginForma\LoginForma\obj\Debug\net6.0-windows\LoginForma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginForma\LoginForma\obj\Debug\net6.0-windows\LoginForma.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginForma\LoginForma\obj\Debug\net6.0-windows\LoginForma.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginForma\LoginForma\obj\Debug\net6.0-windows\LoginForma.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginForma\LoginForma\obj\Debug\net6.0-windows\LoginForma.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginForma\LoginForma\obj\Debug\net6.0-windows\refint\LoginForma.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginForma\LoginForma\obj\Debug\net6.0-windows\LoginForma.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginForma\LoginForma\obj\Debug\net6.0-windows\LoginForma.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\LoginForma\LoginForma\obj\Debug\net6.0-windows\ref\LoginForma.dll
